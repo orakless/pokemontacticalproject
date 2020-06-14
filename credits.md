@@ -5,5 +5,5 @@
 * [HimeWorks](http://himeworks.com/mv-plugins/) pour les scripts des niveaux pour les ennemis.
 
 ## Sprites, ressources, assets
-* [redblueyellow](https://www.spriters-resource.com/submitter/redblueyellow/) pour certains sprites venant des jeux Pokémon.
-* [Naokohiro](https://www.spriters-resource.com/submitter/Naokohiro/)
+* [redblueyellow](https://www.spriters-resource.com/submitter/redblueyellow/) pour certains sprites venant des jeux Pokémon. (Goupix, Motisma, Absol, Rattata)
+* [Naokohiro](https://www.spriters-resource.com/submitter/Naokohiro/) pour certains sprites venant des jeux Pokémon. (Pingoleon)

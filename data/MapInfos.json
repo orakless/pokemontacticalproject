@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Headquarters","order":1,"parentId":0,"scrollX":813,"scrollY":457.5},
+{"id":2,"expanded":true,"name":"Stop The Bandits","order":2,"parentId":1,"scrollX":1119,"scrollY":1474.5},
+{"id":3,"expanded":true,"name":"Lava Cave","order":5,"parentId":1,"scrollX":1297.5,"scrollY":901.5},
+{"id":4,"expanded":false,"name":"Test","order":3,"parentId":2,"scrollX":916,"scrollY":624},
+{"id":5,"expanded":false,"name":"Oasis","order":4,"parentId":2,"scrollX":534,"scrollY":734},
+{"id":6,"expanded":true,"name":"Campagne des Goupix","order":6,"parentId":0,"scrollX":813,"scrollY":457.5},
+{"id":7,"expanded":false,"name":"Acte 1 : La forêt","order":7,"parentId":6,"scrollX":801,"scrollY":457.5}
+]
