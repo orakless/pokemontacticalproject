@@ -1,13 +1,13 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Headquarters","order":1,"parentId":0,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
-{"id":2,"expanded":true,"name":"Stop The Bandits","order":2,"parentId":1,"scrollX":1165.0909090909092,"scrollY":1071.2727272727273},
-{"id":3,"expanded":true,"name":"Lava Cave","order":4,"parentId":1,"scrollX":1234.909090909091,"scrollY":648},
-{"id":4,"expanded":false,"name":"Test","order":3,"parentId":2,"scrollX":1165.0909090909092,"scrollY":665.4545454545455},
+{"id":1,"expanded":true,"name":"Headquarters","order":1,"parentId":0,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
+{"id":2,"expanded":true,"name":"Stop The Bandits","order":2,"parentId":1,"scrollX":1165.3333333333333,"scrollY":1070.6666666666667},
+{"id":3,"expanded":true,"name":"Lava Cave","order":4,"parentId":1,"scrollX":1234.6666666666667,"scrollY":648},
+{"id":4,"expanded":false,"name":"Test","order":3,"parentId":2,"scrollX":1165.3333333333333,"scrollY":665.3333333333334},
 null,
-{"id":6,"expanded":true,"name":"Campagne des Goupix","order":5,"parentId":0,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
-{"id":7,"expanded":true,"name":"Acte 1 : La forêt","order":6,"parentId":6,"scrollX":801,"scrollY":694.5},
-{"id":8,"expanded":false,"name":"Acte 2 : Le village","order":7,"parentId":6,"scrollX":801,"scrollY":886.5},
-{"id":9,"expanded":true,"name":"Acte 3 : La maison","order":8,"parentId":6,"scrollX":813,"scrollY":457.5},
-{"id":10,"expanded":false,"name":"Acte 4 : Caverne du Roittata","order":9,"parentId":6,"scrollX":801,"scrollY":457.5}
+{"id":6,"expanded":true,"name":"Campagne des Goupix","order":5,"parentId":0,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
+{"id":7,"expanded":true,"name":"Acte 1 : La forêt","order":6,"parentId":6,"scrollX":712,"scrollY":472},
+{"id":8,"expanded":false,"name":"Acte 2 : Le village","order":7,"parentId":6,"scrollX":712,"scrollY":937.3333333333334},
+{"id":9,"expanded":true,"name":"Acte 3 : La maison","order":8,"parentId":6,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
+{"id":10,"expanded":false,"name":"Acte 4 : Caverne du Roittata","order":9,"parentId":6,"scrollX":712,"scrollY":457.3333333333333}
 ]
