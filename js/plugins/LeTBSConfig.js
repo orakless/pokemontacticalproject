@@ -395,7 +395,7 @@ Lecode.S_TBS.Config.Custom_Scopes = {
     },
 
     "quick_attack": {
-        data: "[cx+3,cy],[cx-3,cy],[cx,cy+3],[cx,cy-3]"
+        data: "[cx+2,cy],[cx-2,cy],[cx,cy+2],[cx,cy-2]"
     },
 
     "volcano_ground": {

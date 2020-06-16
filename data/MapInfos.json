@@ -1,13 +1,13 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Headquarters","order":1,"parentId":0,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
-{"id":2,"expanded":true,"name":"Stop The Bandits","order":2,"parentId":1,"scrollX":1104,"scrollY":1070.6666666666667},
+{"id":2,"expanded":true,"name":"Stop The Bandits","order":2,"parentId":1,"scrollX":1093.3333333333333,"scrollY":1060},
 {"id":3,"expanded":true,"name":"Lava Cave","order":4,"parentId":1,"scrollX":1234.6666666666667,"scrollY":648},
 {"id":4,"expanded":false,"name":"Test","order":3,"parentId":2,"scrollX":1165.3333333333333,"scrollY":665.3333333333334},
 {"id":5,"expanded":false,"name":"Arène test","order":5,"parentId":1,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
 {"id":6,"expanded":true,"name":"Campagne des Goupix","order":6,"parentId":0,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
 {"id":7,"expanded":true,"name":"Acte 1 : La forêt","order":7,"parentId":6,"scrollX":712,"scrollY":745.3333333333334},
-{"id":8,"expanded":false,"name":"Acte 2 : Le village","order":8,"parentId":6,"scrollX":816,"scrollY":704},
+{"id":8,"expanded":false,"name":"Acte 2 : Le village","order":8,"parentId":6,"scrollX":712,"scrollY":704},
 {"id":9,"expanded":true,"name":"Acte 3 : La maison","order":9,"parentId":6,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
 {"id":10,"expanded":false,"name":"Acte 4 : Caverne du Roittata","order":10,"parentId":6,"scrollX":712,"scrollY":457.3333333333333}
 ]
