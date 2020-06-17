@@ -678,8 +678,6 @@ Lecode.S_TBS.Config.Sequences = {
         "set_speed: user, reset",
         "set_frame: user, cast, last",
         "wait: 12",
-        "effects: {aoe}_battlers, current_obj, obj_anim",
-        "wait: 20",
         "play_pose: user, idle",
         "wait: 10"
     ],
