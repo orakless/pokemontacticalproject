@@ -3026,6 +3026,15 @@ BattleManagerTBS.startTurn = function () {
         this.executeEventsWhen("enemy_turn_start");
     }
     this.executeEntityEventsWhen("entity_turn_start", entity);
+	var battlers=this._battlerEntities;
+	//alibabo
+	
+	for(let i=0; i<battlers.length; i++){
+		var dist = LeUtilities.distanceBetweenCells(battlers[i].getCell(), entity.getCell());
+            if (dist == 1 && LeUtilities.isEnemy(battlers[i].battler(), entity.battler()) ) {
+            	entity._movePoints--; 
+			}
+		}
 };
 
 BattleManagerTBS.resumeTurn = function () {
@@ -6491,6 +6500,8 @@ TBSAiManager.prototype.commandUseP3 = function (obj) {
 };
 
 TBSAiManager.prototype.commandPass = function (param) {
+	//alibebou
+
     var look = param[0];
     switch (look) {
         case "look_closest_enemy":

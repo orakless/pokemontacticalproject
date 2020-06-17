@@ -1061,6 +1061,8 @@ Lecode.S_TBS.Config.AI = {
 
     "default": [
         "process_behaviors",
+        //"process_behaviors",		
+        //"process_behaviors",			
         "call_behavior: end_of_turn"
     ],
 
@@ -1176,6 +1178,11 @@ Lecode.S_TBS.Config.AI = {
     ],
 
     "after_offense": [
+		"if: pattern('melee_fighter')",
+		"if: !isInMeleeWith",
+        "move: toward_enemies, 100%",
+		"endif",
+		"else",
         "if: canUseEscape()",
         "call_behavior: escape",
         "else",
@@ -1186,7 +1193,8 @@ Lecode.S_TBS.Config.AI = {
         "move: toward_enemies, 100%",
         "endif",
         "endif",
-        "endif"
+        "endif",
+		"endif"
     ],
 
     "out_of_range": [
